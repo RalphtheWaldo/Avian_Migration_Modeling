@@ -9,6 +9,7 @@ This project models bird migration patterns using data from **eBird** (a citizen
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Future Features](#future-features)
 
 ## Overview
 
@@ -47,3 +48,10 @@ Open a pull request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Future Features
+
+Add weather data for specific locations to provide probabilities on common or rare species
+Add Distance travelded per outing
+Add full data for comparision against individual observations to caclulate probabiities
+Add functionality to read Data directory so individual variables dont have to be set upon download
