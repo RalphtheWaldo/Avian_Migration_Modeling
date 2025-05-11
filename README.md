@@ -5,6 +5,7 @@ This project models bird migration patterns using data from **eBird** (a citizen
 ## Table of Contents
 
 - [Overview](#overview)
+- [Demo](#demo)
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -14,6 +15,13 @@ This project models bird migration patterns using data from **eBird** (a citizen
 ## Overview
 
 The **Avian Migration Modeling** project uses statistical modeling and data science techniques to analyze bird migration patterns. The main goal is to integrate eBird data with environmental variables and sighting data to identify factors influencing bird movement and migration.
+
+--This project is intended for individual data and does not provide data upon download--
+
+## Demo
+
+![App Demo](assets/demo.gif)
+
 
 ## Installation Instructions
 
