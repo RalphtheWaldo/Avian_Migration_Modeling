@@ -12,7 +12,7 @@ This project models bird migration patterns using data from **eBird** (a citizen
 
 ## Overview
 
-The **Avian Migration Modeling** project uses statistical modeling and data science techniques to analyze bird migration patterns. The main goal is to integrate eBird data with environmental variables, such as temperature, precipitation, and habitat type, to identify factors influencing bird movement and migration.
+The **Avian Migration Modeling** project uses statistical modeling and data science techniques to analyze bird migration patterns. The main goal is to integrate eBird data with environmental variables and sighting data to identify factors influencing bird movement and migration.
 
 ## Installation Instructions
 
@@ -24,9 +24,11 @@ Follow these steps to set up the project locally:
 
 ## Usage
 
-After installing the dependencies, you can run the main script to start analyzing migration patterns.
+After installing the dependencies, you can run the main script to start analyzing bird sighting patterns.
 
-Run the main analysis script:
+apppropriate data can be stored in the 'Data' folder. The folder path should be updated in the variable ebird_path in app.py.
+
+Run the main app script:
 python main.py
 
 Check data sources:
