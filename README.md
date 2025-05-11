@@ -20,7 +20,7 @@ The **Avian Migration Modeling** project uses statistical modeling and data scie
 
 ## Demo
 
-![App Demo](assets/demo.gif)
+![App Demo](Assets/demo.gif)
 
 
 ## Installation Instructions
